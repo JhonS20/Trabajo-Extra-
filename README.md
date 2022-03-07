@@ -2,7 +2,7 @@
 
 Objetivo General 
 
-- Estudiar y entender los pines de entrada y salida de un Arduino con ayuda de la plataforma BlocklyDuino.
+- Estudiar y entender los pines de entrada y salida de un Arduino y programar un circuito con ayuda de la plataforma BlocklyDuino.
 
 Objetivo Eespecífico
 
@@ -46,7 +46,7 @@ Bloque de Entrada y Salida
 Materiales
 
 - Arduino Uno R3
-- 2 resistencias 220 Ohms
+- 2 resistores 220 Ohms
 - 1 Pulsador de dos pines
 - 1 led
 - 1 Protoboard
@@ -95,8 +95,14 @@ Video
 
 Conclusiones
 
+- Se logró entender los conceptos de pin de entrada/salida de un Arduino, el uso que podemos darles y el funcionamiento de la paltaforma BlocklyDuino.
+- BlocklyDuino nos permite facilitar la programación de circuitos al trabajar con bloques que viene con instrucciones ya predeterminadas. 
 
 Bibliografía 
+
+- BlocklyDuino. (n.d.). Github.Io. Retrieved March 7, 2022, from https://blocklyduino.github.io/BlocklyDuino/blockly/apps/blocklyduino/
+- del Valle Hernández, L. (2021, May 18). Pines digitales de Arduino, lo que nadie se atreve a contar. Programar fácil con Arduino. https://programarfacil.com/blog/arduino-blog/pines-digitales-de-arduino/
+
 
 
 
