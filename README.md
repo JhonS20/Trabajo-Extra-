@@ -94,6 +94,7 @@ Video
 
 https://youtu.be/Y-ac5LAg_PM
 
+
 Conclusiones
 
 - Se logró entender los conceptos de pin de entrada/salida de un Arduino, el uso que podemos darles y el funcionamiento de la paltaforma BlocklyDuino.
