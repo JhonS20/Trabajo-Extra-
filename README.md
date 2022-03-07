@@ -1,8 +1,13 @@
-# Trabajo-Extra-
+# Trabajo Extra
 
 Objetivo General 
 
+-Estudiar y entender los pines de entrada y salida de un Arduino con ayuda de la plataforma BlocklyDuino.
+
 Objetivo Eespecífico
+
+-Aprender y dominar la plataforma online BlocklyDuino para la programación de diversos circuitos.
+-Conocer el funcionamiento de los pines del Arduino y el uso que podemos darles.
 
 Marco Teorico
 
@@ -38,4 +43,61 @@ Bloque de Entrada y Salida
 
 ![MARCO 7](https://user-images.githubusercontent.com/93209004/156941423-b300ec06-9cf0-4b18-af23-c45684497751.jpg)
 
+Materiales
+
+-Arduino Uno R3
+-2 resistencias 220 Ohms
+-1 Pulsador de dos pines
+-1 led
+-1 Protoboard
+-Cables Dupont
+
 Procedimiento 
+
+Paso 1
+
+![PASO 1](https://user-images.githubusercontent.com/93209004/156951245-4a70d3da-982f-43a8-85bd-ea0bb1ff7e56.png)
+
+Paso 2
+
+![PASO 2](https://user-images.githubusercontent.com/93209004/156953173-59215dbe-1c4d-4cf6-b589-70a541dbc6d9.jpg)
+
+Paso 3
+
+![PASO 3](https://user-images.githubusercontent.com/93209004/156953184-6a55228a-b000-4c04-bdd7-adf15fa55d23.jpg)
+
+Paso 4
+
+![PASO 4](https://user-images.githubusercontent.com/93209004/156953192-56d09414-9be8-4011-9e1a-417bb9f2d8b7.jpg)
+
+Paso 5
+
+![PASO 5](https://user-images.githubusercontent.com/93209004/156953200-3b005f38-d478-42d3-b12a-9934d198d113.jpg)
+
+Paso 6
+
+![PASO 6](https://user-images.githubusercontent.com/93209004/156953206-712a09e5-2501-4b2a-951b-fa6385b7d25d.jpg)
+
+Paso 7
+
+![PASO 7](https://user-images.githubusercontent.com/93209004/156953215-16ef49e8-f225-47e8-b76f-f994190c3abd.jpg)
+
+Paso 8
+
+![PASO 8](https://user-images.githubusercontent.com/93209004/156953220-d41e7797-d884-4687-8bbe-74de9bab4a82.jpg)
+
+Paso 9
+
+![PASO 9](https://user-images.githubusercontent.com/93209004/156953234-0133ea35-4c7f-4224-8018-37e0f107fbca.jpg)
+
+Video 
+
+
+Conclusiones
+
+
+Bibliografía 
+
+
+
+
