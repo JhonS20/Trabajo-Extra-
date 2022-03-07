@@ -2,12 +2,12 @@
 
 Objetivo General 
 
--Estudiar y entender los pines de entrada y salida de un Arduino con ayuda de la plataforma BlocklyDuino.
+- Estudiar y entender los pines de entrada y salida de un Arduino con ayuda de la plataforma BlocklyDuino.
 
 Objetivo Eespecífico
 
--Aprender y dominar la plataforma online BlocklyDuino para la programación de diversos circuitos.
--Conocer el funcionamiento de los pines del Arduino y el uso que podemos darles.
+- Aprender y dominar la plataforma online BlocklyDuino para la programación de diversos circuitos.
+- Conocer el funcionamiento de los pines del Arduino y el uso que podemos darles.
 
 Marco Teorico
 
@@ -45,12 +45,12 @@ Bloque de Entrada y Salida
 
 Materiales
 
--Arduino Uno R3
--2 resistencias 220 Ohms
--1 Pulsador de dos pines
--1 led
--1 Protoboard
--Cables Dupont
+- Arduino Uno R3
+- 2 resistencias 220 Ohms
+- 1 Pulsador de dos pines
+- 1 led
+- 1 Protoboard
+- Cables Dupont
 
 Procedimiento 
 
